@@ -32,7 +32,6 @@ async function generateJsonDB() {
       heigh: detail.height,
       weight: detail.weight,
       cries: detail.cries,
-      image: detail.sprites.other.dream_world.front_default,
     });
     types = [];
     abilities = [];
