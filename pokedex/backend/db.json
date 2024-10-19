@@ -1,3 +1,1908 @@
 {
-  "pokemon": []
+  "data": [
+    {
+      "id": 101,
+      "name": "electrode",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "soundproof",
+        "static",
+        "aftermath"
+      ],
+      "heigh": 12,
+      "weight": 666,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/101.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/101.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/101.svg"
+    },
+    {
+      "id": 102,
+      "name": "exeggcute",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "harvest"
+      ],
+      "heigh": 4,
+      "weight": 25,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/102.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/102.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/102.svg"
+    },
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "harvest"
+      ],
+      "heigh": 20,
+      "weight": 1200,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/103.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/103.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/103.svg"
+    },
+    {
+      "id": 104,
+      "name": "cubone",
+      "types": [
+        "ground"
+      ],
+      "abilities": [
+        "rock-head",
+        "lightning-rod",
+        "battle-armor"
+      ],
+      "heigh": 4,
+      "weight": 65,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/104.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/104.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/104.svg"
+    },
+    {
+      "id": 105,
+      "name": "marowak",
+      "types": [
+        "ground"
+      ],
+      "abilities": [
+        "rock-head",
+        "lightning-rod",
+        "battle-armor"
+      ],
+      "heigh": 10,
+      "weight": 450,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/105.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/105.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/105.svg"
+    },
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "types": [
+        "fighting"
+      ],
+      "abilities": [
+        "limber",
+        "reckless",
+        "unburden"
+      ],
+      "heigh": 15,
+      "weight": 498,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/106.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/106.svg"
+    },
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "types": [
+        "fighting"
+      ],
+      "abilities": [
+        "keen-eye",
+        "iron-fist",
+        "inner-focus"
+      ],
+      "heigh": 14,
+      "weight": 502,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/107.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/107.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/107.svg"
+    },
+    {
+      "id": 108,
+      "name": "lickitung",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "own-tempo",
+        "oblivious",
+        "cloud-nine"
+      ],
+      "heigh": 12,
+      "weight": 655,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/108.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/108.svg"
+    },
+    {
+      "id": 109,
+      "name": "koffing",
+      "types": [
+        "poison"
+      ],
+      "abilities": [
+        "levitate",
+        "neutralizing-gas",
+        "stench"
+      ],
+      "heigh": 6,
+      "weight": 10,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/109.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/109.svg"
+    },
+    {
+      "id": 110,
+      "name": "weezing",
+      "types": [
+        "poison"
+      ],
+      "abilities": [
+        "levitate",
+        "neutralizing-gas",
+        "stench"
+      ],
+      "heigh": 12,
+      "weight": 95,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/110.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/110.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/110.svg"
+    },
+    {
+      "id": 111,
+      "name": "rhyhorn",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "abilities": [
+        "lightning-rod",
+        "rock-head",
+        "reckless"
+      ],
+      "heigh": 10,
+      "weight": 1150,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/111.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/111.svg"
+    },
+    {
+      "id": 112,
+      "name": "rhydon",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "abilities": [
+        "lightning-rod",
+        "rock-head",
+        "reckless"
+      ],
+      "heigh": 19,
+      "weight": 1200,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/112.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/112.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/112.svg"
+    },
+    {
+      "id": 113,
+      "name": "chansey",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "natural-cure",
+        "serene-grace",
+        "healer"
+      ],
+      "heigh": 11,
+      "weight": 346,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/113.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/113.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/113.svg"
+    },
+    {
+      "id": 114,
+      "name": "tangela",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "leaf-guard",
+        "regenerator"
+      ],
+      "heigh": 10,
+      "weight": 350,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/114.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/114.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/114.svg"
+    },
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "early-bird",
+        "scrappy",
+        "inner-focus"
+      ],
+      "heigh": 22,
+      "weight": 800,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/115.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/115.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/115.svg"
+    },
+    {
+      "id": 116,
+      "name": "horsea",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "sniper",
+        "damp"
+      ],
+      "heigh": 4,
+      "weight": 80,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/116.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/116.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/116.svg"
+    },
+    {
+      "id": 117,
+      "name": "seadra",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "poison-point",
+        "sniper",
+        "damp"
+      ],
+      "heigh": 12,
+      "weight": 250,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/117.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/117.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/117.svg"
+    },
+    {
+      "id": 118,
+      "name": "goldeen",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "water-veil",
+        "lightning-rod"
+      ],
+      "heigh": 6,
+      "weight": 150,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/118.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/118.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/118.svg"
+    },
+    {
+      "id": 119,
+      "name": "seaking",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "water-veil",
+        "lightning-rod"
+      ],
+      "heigh": 13,
+      "weight": 390,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/119.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/119.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/119.svg"
+    },
+    {
+      "id": 120,
+      "name": "staryu",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "illuminate",
+        "natural-cure",
+        "analytic"
+      ],
+      "heigh": 8,
+      "weight": 345,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/120.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/120.svg"
+    },
+    {
+      "id": 121,
+      "name": "starmie",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "abilities": [
+        "illuminate",
+        "natural-cure",
+        "analytic"
+      ],
+      "heigh": 11,
+      "weight": 800,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/121.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/121.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/121.svg"
+    },
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "abilities": [
+        "soundproof",
+        "filter",
+        "technician"
+      ],
+      "heigh": 13,
+      "weight": 545,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/122.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/122.svg"
+    },
+    {
+      "id": 123,
+      "name": "scyther",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "abilities": [
+        "swarm",
+        "technician",
+        "steadfast"
+      ],
+      "heigh": 15,
+      "weight": 560,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/123.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/123.svg"
+    },
+    {
+      "id": 124,
+      "name": "jynx",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "abilities": [
+        "oblivious",
+        "forewarn",
+        "dry-skin"
+      ],
+      "heigh": 14,
+      "weight": 406,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/124.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/124.svg"
+    },
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "static",
+        "vital-spirit"
+      ],
+      "heigh": 11,
+      "weight": 300,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/125.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/125.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/125.svg"
+    },
+    {
+      "id": 126,
+      "name": "magmar",
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        "flame-body",
+        "vital-spirit"
+      ],
+      "heigh": 13,
+      "weight": 445,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/126.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/126.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/126.svg"
+    },
+    {
+      "id": 127,
+      "name": "pinsir",
+      "types": [
+        "bug"
+      ],
+      "abilities": [
+        "hyper-cutter",
+        "mold-breaker",
+        "moxie"
+      ],
+      "heigh": 15,
+      "weight": 550,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/127.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/127.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/127.svg"
+    },
+    {
+      "id": 128,
+      "name": "tauros",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "intimidate",
+        "anger-point",
+        "sheer-force"
+      ],
+      "heigh": 14,
+      "weight": 884,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/128.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/128.svg"
+    },
+    {
+      "id": 129,
+      "name": "magikarp",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "rattled"
+      ],
+      "heigh": 9,
+      "weight": 100,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/129.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/129.svg"
+    },
+    {
+      "id": 130,
+      "name": "gyarados",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "abilities": [
+        "intimidate",
+        "moxie"
+      ],
+      "heigh": 65,
+      "weight": 2350,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/130.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/130.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/130.svg"
+    },
+    {
+      "id": 131,
+      "name": "lapras",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "abilities": [
+        "water-absorb",
+        "shell-armor",
+        "hydration"
+      ],
+      "heigh": 25,
+      "weight": 2200,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/131.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/131.svg"
+    },
+    {
+      "id": 132,
+      "name": "ditto",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "limber",
+        "imposter"
+      ],
+      "heigh": 3,
+      "weight": 40,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/132.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/132.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg"
+    },
+    {
+      "id": 133,
+      "name": "eevee",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "run-away",
+        "adaptability",
+        "anticipation"
+      ],
+      "heigh": 3,
+      "weight": 65,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/133.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/133.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/133.svg"
+    },
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "water-absorb",
+        "hydration"
+      ],
+      "heigh": 10,
+      "weight": 290,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/134.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/134.svg"
+    },
+    {
+      "id": 135,
+      "name": "jolteon",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "volt-absorb",
+        "quick-feet"
+      ],
+      "heigh": 8,
+      "weight": 245,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/135.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/135.svg"
+    },
+    {
+      "id": 136,
+      "name": "flareon",
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        "flash-fire",
+        "guts"
+      ],
+      "heigh": 9,
+      "weight": 250,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/136.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/136.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/136.svg"
+    },
+    {
+      "id": 137,
+      "name": "porygon",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "trace",
+        "download",
+        "analytic"
+      ],
+      "heigh": 8,
+      "weight": 365,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/137.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/137.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/137.svg"
+    },
+    {
+      "id": 138,
+      "name": "omanyte",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "shell-armor",
+        "weak-armor"
+      ],
+      "heigh": 4,
+      "weight": 75,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/138.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/138.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/138.svg"
+    },
+    {
+      "id": 139,
+      "name": "omastar",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "shell-armor",
+        "weak-armor"
+      ],
+      "heigh": 10,
+      "weight": 350,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/139.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/139.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/139.svg"
+    },
+    {
+      "id": 140,
+      "name": "kabuto",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "battle-armor",
+        "weak-armor"
+      ],
+      "heigh": 5,
+      "weight": 115,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/140.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/140.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/140.svg"
+    },
+    {
+      "id": 141,
+      "name": "kabutops",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "abilities": [
+        "swift-swim",
+        "battle-armor",
+        "weak-armor"
+      ],
+      "heigh": 13,
+      "weight": 405,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/141.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/141.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/141.svg"
+    },
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "abilities": [
+        "rock-head",
+        "pressure",
+        "unnerve"
+      ],
+      "heigh": 18,
+      "weight": 590,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/142.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/142.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/142.svg"
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "immunity",
+        "thick-fat",
+        "gluttony"
+      ],
+      "heigh": 21,
+      "weight": 4600,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/143.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/143.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/143.svg"
+    },
+    {
+      "id": 144,
+      "name": "articuno",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "abilities": [
+        "pressure",
+        "snow-cloak"
+      ],
+      "heigh": 17,
+      "weight": 554,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/144.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/144.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/144.svg"
+    },
+    {
+      "id": 145,
+      "name": "zapdos",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "abilities": [
+        "pressure",
+        "static"
+      ],
+      "heigh": 16,
+      "weight": 526,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/145.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/145.svg"
+    },
+    {
+      "id": 146,
+      "name": "moltres",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "abilities": [
+        "pressure",
+        "flame-body"
+      ],
+      "heigh": 20,
+      "weight": 600,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/146.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/146.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/146.svg"
+    },
+    {
+      "id": 147,
+      "name": "dratini",
+      "types": [
+        "dragon"
+      ],
+      "abilities": [
+        "shed-skin",
+        "marvel-scale"
+      ],
+      "heigh": 18,
+      "weight": 33,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/147.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/147.svg"
+    },
+    {
+      "id": 148,
+      "name": "dragonair",
+      "types": [
+        "dragon"
+      ],
+      "abilities": [
+        "shed-skin",
+        "marvel-scale"
+      ],
+      "heigh": 40,
+      "weight": 165,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/148.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/148.svg"
+    },
+    {
+      "id": 149,
+      "name": "dragonite",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "abilities": [
+        "inner-focus",
+        "multiscale"
+      ],
+      "heigh": 22,
+      "weight": 2100,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/149.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/149.svg"
+    },
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "types": [
+        "psychic"
+      ],
+      "abilities": [
+        "pressure",
+        "unnerve"
+      ],
+      "heigh": 20,
+      "weight": 1220,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/150.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/150.svg"
+    },
+    {
+      "id": 151,
+      "name": "mew",
+      "types": [
+        "psychic"
+      ],
+      "abilities": [
+        "synchronize"
+      ],
+      "heigh": 4,
+      "weight": 40,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/151.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/151.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/151.svg"
+    },
+    {
+      "id": 152,
+      "name": "chikorita",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "overgrow",
+        "leaf-guard"
+      ],
+      "heigh": 9,
+      "weight": 64,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/152.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/152.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/152.svg"
+    },
+    {
+      "id": 153,
+      "name": "bayleef",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "overgrow",
+        "leaf-guard"
+      ],
+      "heigh": 12,
+      "weight": 158,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/153.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/153.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/153.svg"
+    },
+    {
+      "id": 154,
+      "name": "meganium",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "overgrow",
+        "leaf-guard"
+      ],
+      "heigh": 18,
+      "weight": 1005,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/154.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/154.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/154.svg"
+    },
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        "blaze",
+        "flash-fire"
+      ],
+      "heigh": 5,
+      "weight": 79,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/155.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/155.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/155.svg"
+    },
+    {
+      "id": 156,
+      "name": "quilava",
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        "blaze",
+        "flash-fire"
+      ],
+      "heigh": 9,
+      "weight": 190,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/156.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/156.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/156.svg"
+    },
+    {
+      "id": 157,
+      "name": "typhlosion",
+      "types": [
+        "fire"
+      ],
+      "abilities": [
+        "blaze",
+        "flash-fire"
+      ],
+      "heigh": 17,
+      "weight": 795,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/157.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/157.svg"
+    },
+    {
+      "id": 158,
+      "name": "totodile",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "torrent",
+        "sheer-force"
+      ],
+      "heigh": 6,
+      "weight": 95,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/158.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/158.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/158.svg"
+    },
+    {
+      "id": 159,
+      "name": "croconaw",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "torrent",
+        "sheer-force"
+      ],
+      "heigh": 11,
+      "weight": 250,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/159.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/159.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/159.svg"
+    },
+    {
+      "id": 160,
+      "name": "feraligatr",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "torrent",
+        "sheer-force"
+      ],
+      "heigh": 23,
+      "weight": 888,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/160.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/160.svg"
+    },
+    {
+      "id": 161,
+      "name": "sentret",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "run-away",
+        "keen-eye",
+        "frisk"
+      ],
+      "heigh": 8,
+      "weight": 60,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/161.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/161.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/161.svg"
+    },
+    {
+      "id": 162,
+      "name": "furret",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "run-away",
+        "keen-eye",
+        "frisk"
+      ],
+      "heigh": 18,
+      "weight": 325,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/162.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/162.svg"
+    },
+    {
+      "id": 163,
+      "name": "hoothoot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "abilities": [
+        "insomnia",
+        "keen-eye",
+        "tinted-lens"
+      ],
+      "heigh": 7,
+      "weight": 212,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/163.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/163.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/163.svg"
+    },
+    {
+      "id": 164,
+      "name": "noctowl",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "abilities": [
+        "insomnia",
+        "keen-eye",
+        "tinted-lens"
+      ],
+      "heigh": 16,
+      "weight": 408,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/164.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/164.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/164.svg"
+    },
+    {
+      "id": 165,
+      "name": "ledyba",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "abilities": [
+        "swarm",
+        "early-bird",
+        "rattled"
+      ],
+      "heigh": 10,
+      "weight": 108,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/165.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/165.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/165.svg"
+    },
+    {
+      "id": 166,
+      "name": "ledian",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "abilities": [
+        "swarm",
+        "early-bird",
+        "iron-fist"
+      ],
+      "heigh": 14,
+      "weight": 356,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/166.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/166.svg"
+    },
+    {
+      "id": 167,
+      "name": "spinarak",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "abilities": [
+        "swarm",
+        "insomnia",
+        "sniper"
+      ],
+      "heigh": 5,
+      "weight": 85,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/167.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/167.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/167.svg"
+    },
+    {
+      "id": 168,
+      "name": "ariados",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "abilities": [
+        "swarm",
+        "insomnia",
+        "sniper"
+      ],
+      "heigh": 11,
+      "weight": 335,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/168.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/168.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/168.svg"
+    },
+    {
+      "id": 169,
+      "name": "crobat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "abilities": [
+        "inner-focus",
+        "infiltrator"
+      ],
+      "heigh": 18,
+      "weight": 750,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/169.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/169.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/169.svg"
+    },
+    {
+      "id": 170,
+      "name": "chinchou",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "abilities": [
+        "volt-absorb",
+        "illuminate",
+        "water-absorb"
+      ],
+      "heigh": 5,
+      "weight": 120,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/170.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/170.svg"
+    },
+    {
+      "id": 171,
+      "name": "lanturn",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "abilities": [
+        "volt-absorb",
+        "illuminate",
+        "water-absorb"
+      ],
+      "heigh": 12,
+      "weight": 225,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/171.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/171.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/171.svg"
+    },
+    {
+      "id": 172,
+      "name": "pichu",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "static",
+        "lightning-rod"
+      ],
+      "heigh": 3,
+      "weight": 20,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/172.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/172.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/172.svg"
+    },
+    {
+      "id": 173,
+      "name": "cleffa",
+      "types": [
+        "fairy"
+      ],
+      "abilities": [
+        "cute-charm",
+        "magic-guard",
+        "friend-guard"
+      ],
+      "heigh": 3,
+      "weight": 30,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/173.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/173.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/173.svg"
+    },
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "abilities": [
+        "cute-charm",
+        "competitive",
+        "friend-guard"
+      ],
+      "heigh": 3,
+      "weight": 10,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/174.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/174.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/174.svg"
+    },
+    {
+      "id": 175,
+      "name": "togepi",
+      "types": [
+        "fairy"
+      ],
+      "abilities": [
+        "hustle",
+        "serene-grace",
+        "super-luck"
+      ],
+      "heigh": 3,
+      "weight": 15,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/175.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/175.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/175.svg"
+    },
+    {
+      "id": 176,
+      "name": "togetic",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "abilities": [
+        "hustle",
+        "serene-grace",
+        "super-luck"
+      ],
+      "heigh": 6,
+      "weight": 32,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/176.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/176.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/176.svg"
+    },
+    {
+      "id": 177,
+      "name": "natu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "abilities": [
+        "synchronize",
+        "early-bird",
+        "magic-bounce"
+      ],
+      "heigh": 2,
+      "weight": 20,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/177.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/177.svg"
+    },
+    {
+      "id": 178,
+      "name": "xatu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "abilities": [
+        "synchronize",
+        "early-bird",
+        "magic-bounce"
+      ],
+      "heigh": 15,
+      "weight": 150,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/178.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/178.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/178.svg"
+    },
+    {
+      "id": 179,
+      "name": "mareep",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "static",
+        "plus"
+      ],
+      "heigh": 6,
+      "weight": 78,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/179.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/179.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/179.svg"
+    },
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "static",
+        "plus"
+      ],
+      "heigh": 8,
+      "weight": 133,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/180.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/180.svg"
+    },
+    {
+      "id": 181,
+      "name": "ampharos",
+      "types": [
+        "electric"
+      ],
+      "abilities": [
+        "static",
+        "plus"
+      ],
+      "heigh": 14,
+      "weight": 615,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/181.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/181.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/181.svg"
+    },
+    {
+      "id": 182,
+      "name": "bellossom",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "healer"
+      ],
+      "heigh": 4,
+      "weight": 58,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/182.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/182.svg"
+    },
+    {
+      "id": 183,
+      "name": "marill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "abilities": [
+        "thick-fat",
+        "huge-power",
+        "sap-sipper"
+      ],
+      "heigh": 4,
+      "weight": 85,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/183.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/183.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/183.svg"
+    },
+    {
+      "id": 184,
+      "name": "azumarill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "abilities": [
+        "thick-fat",
+        "huge-power",
+        "sap-sipper"
+      ],
+      "heigh": 8,
+      "weight": 285,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/184.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/184.svg"
+    },
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "types": [
+        "rock"
+      ],
+      "abilities": [
+        "sturdy",
+        "rock-head",
+        "rattled"
+      ],
+      "heigh": 12,
+      "weight": 380,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/185.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/185.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/185.svg"
+    },
+    {
+      "id": 186,
+      "name": "politoed",
+      "types": [
+        "water"
+      ],
+      "abilities": [
+        "water-absorb",
+        "damp",
+        "drizzle"
+      ],
+      "heigh": 11,
+      "weight": 339,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/186.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/186.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/186.svg"
+    },
+    {
+      "id": 187,
+      "name": "hoppip",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "leaf-guard",
+        "infiltrator"
+      ],
+      "heigh": 4,
+      "weight": 5,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/187.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/187.svg"
+    },
+    {
+      "id": 188,
+      "name": "skiploom",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "leaf-guard",
+        "infiltrator"
+      ],
+      "heigh": 6,
+      "weight": 10,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/188.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/188.svg"
+    },
+    {
+      "id": 189,
+      "name": "jumpluff",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "leaf-guard",
+        "infiltrator"
+      ],
+      "heigh": 8,
+      "weight": 30,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/189.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/189.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/189.svg"
+    },
+    {
+      "id": 190,
+      "name": "aipom",
+      "types": [
+        "normal"
+      ],
+      "abilities": [
+        "run-away",
+        "pickup",
+        "skill-link"
+      ],
+      "heigh": 8,
+      "weight": 115,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/190.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/190.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/190.svg"
+    },
+    {
+      "id": 191,
+      "name": "sunkern",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "solar-power",
+        "early-bird"
+      ],
+      "heigh": 3,
+      "weight": 18,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/191.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/191.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/191.svg"
+    },
+    {
+      "id": 192,
+      "name": "sunflora",
+      "types": [
+        "grass"
+      ],
+      "abilities": [
+        "chlorophyll",
+        "solar-power",
+        "early-bird"
+      ],
+      "heigh": 8,
+      "weight": 85,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/192.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/192.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/192.svg"
+    },
+    {
+      "id": 193,
+      "name": "yanma",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "abilities": [
+        "speed-boost",
+        "compound-eyes",
+        "frisk"
+      ],
+      "heigh": 12,
+      "weight": 380,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/193.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/193.svg"
+    },
+    {
+      "id": 194,
+      "name": "wooper",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "abilities": [
+        "damp",
+        "water-absorb",
+        "unaware"
+      ],
+      "heigh": 4,
+      "weight": 85,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/194.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/194.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/194.svg"
+    },
+    {
+      "id": 195,
+      "name": "quagsire",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "abilities": [
+        "damp",
+        "water-absorb",
+        "unaware"
+      ],
+      "heigh": 14,
+      "weight": 750,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/195.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/195.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/195.svg"
+    },
+    {
+      "id": 196,
+      "name": "espeon",
+      "types": [
+        "psychic"
+      ],
+      "abilities": [
+        "synchronize",
+        "magic-bounce"
+      ],
+      "heigh": 9,
+      "weight": 265,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/196.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/196.svg"
+    },
+    {
+      "id": 197,
+      "name": "umbreon",
+      "types": [
+        "dark"
+      ],
+      "abilities": [
+        "synchronize",
+        "inner-focus"
+      ],
+      "heigh": 10,
+      "weight": 270,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/197.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/197.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/197.svg"
+    },
+    {
+      "id": 198,
+      "name": "murkrow",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "abilities": [
+        "insomnia",
+        "super-luck",
+        "prankster"
+      ],
+      "heigh": 5,
+      "weight": 21,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/198.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/198.svg"
+    },
+    {
+      "id": 199,
+      "name": "slowking",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "abilities": [
+        "oblivious",
+        "own-tempo",
+        "regenerator"
+      ],
+      "heigh": 20,
+      "weight": 795,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/199.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/199.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/199.svg"
+    },
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "types": [
+        "ghost"
+      ],
+      "abilities": [
+        "levitate"
+      ],
+      "heigh": 7,
+      "weight": 10,
+      "cries": {
+        "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/200.ogg",
+        "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/200.ogg"
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/200.svg"
+    }
+  ]
 }
