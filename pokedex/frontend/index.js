@@ -45,7 +45,7 @@ function PokemonList() {
         key: pokemon.id,
         name: pokemon.name,
         types: pokemon.types.join("/"),
-        image: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`,
+        // image: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`,
       })
     )
   );
