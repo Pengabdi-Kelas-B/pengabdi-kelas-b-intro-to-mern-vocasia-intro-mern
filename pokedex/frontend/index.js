@@ -8,11 +8,11 @@ async function fetchPokemon() {
       throw new Error("http call failed");
     }
     const data = await response.json();
-    pokemonData = data;
+    pokemonData = data; // Menyimpan data langsung dari response
     renderApp();
   } catch (error) {
     console.error("Failed to fetch Pokemon data:", error);
-    renderApp();
+    renderApp(); // Render in case of error to show message
   }
 }
 
@@ -20,10 +20,8 @@ async function fetchPokemon() {
 function PokemonCard(props) {
   return React.createElement(
     "div",
-    { className: "" },
-    React.createElement("img", { src: props.image, alt: props.name }),
-    React.createElement("h2", null, props.name),
-    React.createElement("p", null, `Type: ${props.types}`)
+    { className: "bg-white p-4 rounded-lg shadow-md m-4 max-w-xs text-center" },
+    React.createElement("h2", { className: "text-xl font-bold mt-2" }, props.name)
   );
 }
 
@@ -32,20 +30,18 @@ function PokemonList() {
   if (pokemonData.length === 0) {
     return React.createElement(
       "p",
-      { className: "text-center" },
+      { className: "text-center text-gray-500" },
       "Loading Pokemon data..."
     );
   }
 
   return React.createElement(
     "div",
-    { className: "flex flex-wrap justify-center" },
+    { className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" },
     pokemonData.map((pokemon) =>
       React.createElement(PokemonCard, {
-        key: pokemon.id,
-        name: pokemon.name,
-        types: pokemon.types.join("/"),
-        image: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`,
+        key: pokemon.name, // Menggunakan nama sebagai key
+        name: pokemon.name // Hanya menampilkan nama
       })
     )
   );
@@ -55,13 +51,13 @@ function PokemonList() {
 function App() {
   return React.createElement(
     "div",
-    { className: "" },
+    { className: "bg-gray-100 min-h-screen" },
     React.createElement(
       "header",
-      { className: "" },
+      { className: "bg-green-800 p-6" },
       React.createElement(
         "h1",
-        { className: "text-3xl text-center font-bold underline" },
+        { className: "text-4xl text-center font-bold text-white" },
         "Pokedex"
       )
     ),
