@@ -20,27 +20,27 @@ async function fetchPokemon() {
 function typeColor(type) {
   switch (type) {
     case "grass":
-      return "green";
+      return "green-600";  // Dark green
     case "poison":
-      return "purple";
+      return "purple-600";  // Dark purple
     case "fire":
-      return "red";
+      return "orange-600";  // Dark orange
     case "water":
-      return "blue";
+      return "blue-600";  // Dark blue
     case "electric":
-      return "yellow";
+      return "yellow-600";  // Dark yellow
     case "psychic":
-      return "pink";
+      return "pink-600";  // Dark pink
     case "ice":
-      return "blue";
+      return "teal-600";  // Dark teal
     case "dragon":
-      return "indigo";
+      return "indigo-600";  // Dark indigo
     case "dark":
-      return "gray";
+      return "gray-800";  // Dark gray
     case "fairy":
-      return "pink";
+      return "pink-500";  // Soft pink
     default:
-      return "gray";
+      return "gray-500";  // Default gray
   }
 }
 
@@ -50,7 +50,7 @@ function PokemonCard(props) {
     "div",
     {
       className:
-        "bg-black border-2 border-red-600 rounded-lg shadow-lg p-4 m-2 text-center max-w-sm bg-opacity-90", // Card border in bright red
+        "bg-white border-2 border-green-700 rounded-lg shadow-lg p-4 m-2 text-center max-w-sm bg-opacity-90", // Card border in dark green
     },
     React.createElement("div", { className: "overflow-hidden mb-2" },
       React.createElement("img", {
@@ -62,7 +62,7 @@ function PokemonCard(props) {
     ),
     React.createElement(
       "h2",
-      { className: "text-2xl font-extrabold text-purple-600 mb-2" }, // Pokémon name in purple
+      { className: "text-2xl font-extrabold text-green-700 mb-2" }, // Pokémon name in dark green
       props.name
     ),    
     React.createElement(
@@ -70,7 +70,7 @@ function PokemonCard(props) {
       { className: "flex flex-col justify-center items-center mt-2" },
       React.createElement(
         "p",
-        { className: "text-lg text-gray-300" },
+        { className: "text-lg text-gray-800" },
         "Type:"
       ),
       React.createElement(
@@ -81,7 +81,7 @@ function PokemonCard(props) {
             "span",
             {
               key: type,
-              className: `inline-block px-3 py-1 text-sm font-bold text-gray-100 bg-${typeColor(type)}-500 hover:bg-${typeColor(type)}-700 transition-colors duration-300 transform hover:scale-105`, // Solid hover effect on type with slight scaling
+              className: `inline-block px-3 py-1 text-sm font-bold text-gray-100 bg-${typeColor(type)} hover:bg-${typeColor(type)}-700 transition-colors duration-300 transform hover:scale-105`, // Solid hover effect on type with slight scaling
             },
             type
           )
@@ -103,7 +103,7 @@ function PokemonList() {
 
   return React.createElement(
     "div",
-    { className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4" }, // Closer card spacing for up to 5 cards per row
+    { className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4" }, 
     pokemonData.map((pokemon) =>
       React.createElement(PokemonCard, {
         key: pokemon.id,
@@ -115,7 +115,7 @@ function PokemonList() {
   );
 }
 
-// App component wrapping the header and list with updated colors
+
 function App() {
   return React.createElement(
     "div",
@@ -125,25 +125,24 @@ function App() {
       { className: "mb-10 text-center" },
       React.createElement(
         "h1",
-        { className: "text-6xl font-extrabold text-purple-600 drop-shadow-lg" }, // Header text with shadow effect
+        { className: "text-6xl font-extrabold text-green-700 drop-shadow-lg" }, 
         "Pokedex"
       ),
-      React.createElement("div", { className: "relative mt-6 mb-4" }, // Adjusted separator spacing
-        React.createElement("div", { className: "absolute inset-0 border-t-2 border-red-600" }), // Outer bright red separator line
-        React.createElement("div", { className: "border-t-2 border-gray-600" }) // Inner separator line
+      React.createElement("div", { className: "relative mt-6 mb-4" }, 
+        React.createElement("div", { className: "absolute inset-0 border-t-2 border-green-700" }), 
+        React.createElement("div", { className: "border-t-2 border-gray-600" }) 
       )
     ),
     React.createElement(PokemonList, null)
   );
 }
 
-// Function to render the app
+
 function renderApp() {
   ReactDOM.render(React.createElement(App), document.getElementById("root"));
 }
 
-// Initial render
+
 renderApp();
 
-// Fetch and display the Pokemon data
 fetchPokemon();
