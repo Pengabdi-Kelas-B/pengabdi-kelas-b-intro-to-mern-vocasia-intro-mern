@@ -1,6 +1,4 @@
 let pokemonData = [];
-
-// Fetch data from mock server
 async function fetchPokemon() {
   try {
     const response = await fetch("http://localhost:3000/pokemon");
