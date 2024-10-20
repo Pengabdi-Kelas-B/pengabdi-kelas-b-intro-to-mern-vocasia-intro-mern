@@ -5,7 +5,7 @@ async function fetchPokemon() {
   try {
     const response = await fetch("http://localhost:3000/pokemon");
     if (!response.ok) {
-      throw new Error("http call failed");
+      throw new Error("HTTP call failed");
     }
     const data = await response.json();
     pokemonData = data;
@@ -20,10 +20,24 @@ async function fetchPokemon() {
 function PokemonCard(props) {
   return React.createElement(
     "div",
-    { className: "" },
-    React.createElement("img", { src: props.image, alt: props.name }),
-    React.createElement("h2", null, props.name),
-    React.createElement("p", null, `Type: ${props.types}`)
+    {
+      className: "w-64 h-80 m-4 p-4 border-2 border-gray-800 rounded-lg bg-yellow-100 shadow-lg flex flex-col items-center",
+    },
+    React.createElement("img", {
+      src: props.image,
+      alt: props.name,
+      className: "w-24 h-24 mb-2",
+    }),
+    React.createElement(
+      "h2",
+      { className: "text-xl font-semibold text-gray-800 mb-1" },
+      props.name
+    ),
+    React.createElement(
+      "p",
+      { className: "text-sm italic text-gray-600" },
+      `Type: ${props.types}`
+    )
   );
 }
 
@@ -32,7 +46,7 @@ function PokemonList() {
   if (pokemonData.length === 0) {
     return React.createElement(
       "p",
-      { className: "text-center" },
+      { className: "text-center text-gray-800" },
       "Loading Pokemon data..."
     );
   }
@@ -55,14 +69,14 @@ function PokemonList() {
 function App() {
   return React.createElement(
     "div",
-    { className: "" },
+    { className: "p-6 bg-gray-100 min-h-screen" },
     React.createElement(
       "header",
-      { className: "" },
+      { className: "mb-6" },
       React.createElement(
         "h1",
-        { className: "text-3xl text-center font-bold underline" },
-        "Pokedex"
+        { className: "text-4xl text-center font-bold text-gray-800 underline mb-4" },
+        "Classic Pokedex"
       )
     ),
     React.createElement(PokemonList, null)
