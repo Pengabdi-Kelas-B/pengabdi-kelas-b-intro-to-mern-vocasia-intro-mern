@@ -16,7 +16,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/101.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/101.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/101.svg"
     },
     {
       "id": 102,
@@ -34,7 +35,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/102.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/102.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/102.svg"
     },
     {
       "id": 103,
@@ -52,7 +54,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/103.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/103.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/103.svg"
     },
     {
       "id": 104,
@@ -70,7 +73,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/104.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/104.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/104.svg"
     },
     {
       "id": 105,
@@ -88,7 +92,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/105.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/105.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/105.svg"
     },
     {
       "id": 106,
@@ -106,7 +111,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/106.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/106.svg"
     },
     {
       "id": 107,
@@ -124,7 +130,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/107.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/107.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/107.svg"
     },
     {
       "id": 108,
@@ -142,7 +149,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/108.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/108.svg"
     },
     {
       "id": 109,
@@ -160,7 +168,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/109.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/109.svg"
     },
     {
       "id": 110,
@@ -178,7 +187,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/110.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/110.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/110.svg"
     },
     {
       "id": 111,
@@ -197,7 +207,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/111.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/111.svg"
     },
     {
       "id": 112,
@@ -216,7 +227,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/112.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/112.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/112.svg"
     },
     {
       "id": 113,
@@ -234,7 +246,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/113.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/113.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/113.svg"
     },
     {
       "id": 114,
@@ -252,7 +265,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/114.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/114.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/114.svg"
     },
     {
       "id": 115,
@@ -270,7 +284,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/115.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/115.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/115.svg"
     },
     {
       "id": 116,
@@ -288,7 +303,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/116.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/116.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/116.svg"
     },
     {
       "id": 117,
@@ -306,7 +322,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/117.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/117.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/117.svg"
     },
     {
       "id": 118,
@@ -324,7 +341,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/118.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/118.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/118.svg"
     },
     {
       "id": 119,
@@ -342,7 +360,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/119.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/119.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/119.svg"
     },
     {
       "id": 120,
@@ -360,7 +379,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/120.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/120.svg"
     },
     {
       "id": 121,
@@ -379,7 +399,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/121.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/121.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/121.svg"
     },
     {
       "id": 122,
@@ -398,7 +419,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/122.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/122.svg"
     },
     {
       "id": 123,
@@ -417,7 +439,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/123.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/123.svg"
     },
     {
       "id": 124,
@@ -436,7 +459,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/124.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/124.svg"
     },
     {
       "id": 125,
@@ -453,7 +477,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/125.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/125.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/125.svg"
     },
     {
       "id": 126,
@@ -470,7 +495,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/126.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/126.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/126.svg"
     },
     {
       "id": 127,
@@ -488,7 +514,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/127.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/127.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/127.svg"
     },
     {
       "id": 128,
@@ -506,7 +533,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/128.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/128.svg"
     },
     {
       "id": 129,
@@ -523,7 +551,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/129.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/129.svg"
     },
     {
       "id": 130,
@@ -541,7 +570,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/130.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/130.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/130.svg"
     },
     {
       "id": 131,
@@ -560,7 +590,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/131.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/131.svg"
     },
     {
       "id": 132,
@@ -577,7 +608,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/132.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/132.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg"
     },
     {
       "id": 133,
@@ -595,7 +627,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/133.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/133.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/133.svg"
     },
     {
       "id": 134,
@@ -612,7 +645,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/134.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/134.svg"
     },
     {
       "id": 135,
@@ -629,7 +663,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/135.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/135.svg"
     },
     {
       "id": 136,
@@ -646,7 +681,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/136.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/136.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/136.svg"
     },
     {
       "id": 137,
@@ -664,7 +700,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/137.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/137.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/137.svg"
     },
     {
       "id": 138,
@@ -683,7 +720,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/138.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/138.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/138.svg"
     },
     {
       "id": 139,
@@ -702,7 +740,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/139.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/139.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/139.svg"
     },
     {
       "id": 140,
@@ -721,7 +760,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/140.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/140.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/140.svg"
     },
     {
       "id": 141,
@@ -740,7 +780,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/141.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/141.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/141.svg"
     },
     {
       "id": 142,
@@ -759,7 +800,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/142.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/142.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/142.svg"
     },
     {
       "id": 143,
@@ -777,7 +819,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/143.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/143.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/143.svg"
     },
     {
       "id": 144,
@@ -795,7 +838,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/144.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/144.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/144.svg"
     },
     {
       "id": 145,
@@ -813,7 +857,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/145.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/145.svg"
     },
     {
       "id": 146,
@@ -831,7 +876,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/146.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/146.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/146.svg"
     },
     {
       "id": 147,
@@ -848,7 +894,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/147.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/147.svg"
     },
     {
       "id": 148,
@@ -865,7 +912,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/148.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/148.svg"
     },
     {
       "id": 149,
@@ -883,7 +931,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/149.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/149.svg"
     },
     {
       "id": 150,
@@ -900,7 +949,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/150.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/150.svg"
     },
     {
       "id": 151,
@@ -916,7 +966,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/151.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/151.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/151.svg"
     },
     {
       "id": 152,
@@ -933,7 +984,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/152.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/152.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/152.svg"
     },
     {
       "id": 153,
@@ -950,7 +1002,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/153.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/153.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/153.svg"
     },
     {
       "id": 154,
@@ -967,7 +1020,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/154.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/154.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/154.svg"
     },
     {
       "id": 155,
@@ -984,7 +1038,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/155.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/155.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/155.svg"
     },
     {
       "id": 156,
@@ -1001,7 +1056,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/156.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/156.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/156.svg"
     },
     {
       "id": 157,
@@ -1018,7 +1074,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/157.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/157.svg"
     },
     {
       "id": 158,
@@ -1035,7 +1092,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/158.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/158.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/158.svg"
     },
     {
       "id": 159,
@@ -1052,7 +1110,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/159.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/159.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/159.svg"
     },
     {
       "id": 160,
@@ -1069,7 +1128,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/160.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/160.svg"
     },
     {
       "id": 161,
@@ -1087,7 +1147,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/161.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/161.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/161.svg"
     },
     {
       "id": 162,
@@ -1105,7 +1166,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/162.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/162.svg"
     },
     {
       "id": 163,
@@ -1124,7 +1186,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/163.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/163.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/163.svg"
     },
     {
       "id": 164,
@@ -1143,7 +1206,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/164.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/164.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/164.svg"
     },
     {
       "id": 165,
@@ -1162,7 +1226,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/165.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/165.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/165.svg"
     },
     {
       "id": 166,
@@ -1181,7 +1246,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/166.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/166.svg"
     },
     {
       "id": 167,
@@ -1200,7 +1266,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/167.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/167.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/167.svg"
     },
     {
       "id": 168,
@@ -1219,7 +1286,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/168.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/168.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/168.svg"
     },
     {
       "id": 169,
@@ -1237,7 +1305,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/169.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/169.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/169.svg"
     },
     {
       "id": 170,
@@ -1256,7 +1325,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/170.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/170.svg"
     },
     {
       "id": 171,
@@ -1275,7 +1345,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/171.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/171.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/171.svg"
     },
     {
       "id": 172,
@@ -1292,7 +1363,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/172.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/172.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/172.svg"
     },
     {
       "id": 173,
@@ -1310,7 +1382,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/173.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/173.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/173.svg"
     },
     {
       "id": 174,
@@ -1329,7 +1402,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/174.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/174.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/174.svg"
     },
     {
       "id": 175,
@@ -1347,7 +1421,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/175.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/175.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/175.svg"
     },
     {
       "id": 176,
@@ -1366,7 +1441,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/176.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/176.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/176.svg"
     },
     {
       "id": 177,
@@ -1385,7 +1461,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/177.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/177.svg"
     },
     {
       "id": 178,
@@ -1404,7 +1481,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/178.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/178.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/178.svg"
     },
     {
       "id": 179,
@@ -1421,7 +1499,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/179.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/179.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/179.svg"
     },
     {
       "id": 180,
@@ -1438,7 +1517,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/180.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/180.svg"
     },
     {
       "id": 181,
@@ -1455,7 +1535,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/181.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/181.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/181.svg"
     },
     {
       "id": 182,
@@ -1472,7 +1553,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/182.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/182.svg"
     },
     {
       "id": 183,
@@ -1491,7 +1573,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/183.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/183.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/183.svg"
     },
     {
       "id": 184,
@@ -1510,7 +1593,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/184.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/184.svg"
     },
     {
       "id": 185,
@@ -1528,7 +1612,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/185.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/185.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/185.svg"
     },
     {
       "id": 186,
@@ -1546,7 +1631,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/186.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/186.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/186.svg"
     },
     {
       "id": 187,
@@ -1565,7 +1651,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/187.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/187.svg"
     },
     {
       "id": 188,
@@ -1584,7 +1671,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/188.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/188.svg"
     },
     {
       "id": 189,
@@ -1603,7 +1691,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/189.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/189.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/189.svg"
     },
     {
       "id": 190,
@@ -1621,7 +1710,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/190.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/190.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/190.svg"
     },
     {
       "id": 191,
@@ -1639,7 +1729,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/191.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/191.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/191.svg"
     },
     {
       "id": 192,
@@ -1657,7 +1748,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/192.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/192.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/192.svg"
     },
     {
       "id": 193,
@@ -1676,7 +1768,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/193.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/193.svg"
     },
     {
       "id": 194,
@@ -1695,7 +1788,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/194.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/194.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/194.svg"
     },
     {
       "id": 195,
@@ -1714,7 +1808,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/195.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/195.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/195.svg"
     },
     {
       "id": 196,
@@ -1731,7 +1826,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/196.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/196.svg"
     },
     {
       "id": 197,
@@ -1748,7 +1844,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/197.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/197.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/197.svg"
     },
     {
       "id": 198,
@@ -1767,7 +1864,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/198.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/198.svg"
     },
     {
       "id": 199,
@@ -1786,7 +1884,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/199.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/199.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/199.svg"
     },
     {
       "id": 200,
@@ -1802,7 +1901,8 @@
       "cries": {
         "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/200.ogg",
         "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/200.ogg"
-      }
+      },
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/200.svg"
     }
   ]
 }
