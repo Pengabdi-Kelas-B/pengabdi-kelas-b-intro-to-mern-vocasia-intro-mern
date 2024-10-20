@@ -12,7 +12,7 @@ async function fetchPokemon() {
     renderApp();
   } catch (error) {
     console.error("Failed to fetch Pokemon data:", error);
-    renderApp(); // Render in case of error to show message
+    renderApp(); // Render in case of error to show message (pesan jika error)
   }
 }
 
@@ -41,7 +41,7 @@ function PokemonList() {
     pokemonData.map((pokemon) =>
       React.createElement(PokemonCard, {
         key: pokemon.name, // Menggunakan nama sebagai key
-        name: pokemon.name // Hanya menampilkan nama
+        name: pokemon.name // menampilkan nama
       })
     )
   );
@@ -72,6 +72,5 @@ function renderApp() {
 
 // Initial render
 renderApp();
-
 // Fetch and display the Pokemon data
 fetchPokemon();
