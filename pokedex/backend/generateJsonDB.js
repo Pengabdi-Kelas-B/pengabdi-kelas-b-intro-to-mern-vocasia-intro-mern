@@ -30,7 +30,7 @@ async function generateJsonDB() {
       pokemonList.push(pokemon);
     }
 
-    // Menyimpan hasil dalam file db.json
+    // Menyimpan Hasil dalam file db.json
     const data = { pokemon: pokemonList };
     fs.writeFileSync("db.json", JSON.stringify(data, null, 2));
     console.log("db.json berhasil dibuat dengan data 100 Pokemon!");

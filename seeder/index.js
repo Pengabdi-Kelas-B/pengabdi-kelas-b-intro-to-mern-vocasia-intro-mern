@@ -4,14 +4,14 @@ const fs = require("fs");
 const { title } = require("process");
 
 async function main() {
-  /--------------- Not allowed to be edited - start - --------------------- */;
+  /--------------- Not allowed to be edited - Start - --------------------- */;
   const mongoUri = process.env.MONGODB_URI;
   const collection = process.env.MONGODB_COLLECTION;
 
   const args = process.argv.slice(2);
 
   const command = args[0];
-  /--------------- Not allowed to be edited - end - --------------------- */;
+  /--------------- Not allowed to be edited - End - --------------------- */;
 
   // Connect to MongoDB
   await mongoose.connect(mongoUri);
