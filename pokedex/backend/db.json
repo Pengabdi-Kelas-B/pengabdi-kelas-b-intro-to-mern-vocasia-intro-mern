@@ -2,403 +2,751 @@
     "pokemon": [
         {
             "name": "bulbasaur",
-            "url": "https://pokeapi.co/api/v2/pokemon/1/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
         },
         {
             "name": "ivysaur",
-            "url": "https://pokeapi.co/api/v2/pokemon/2/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
         },
         {
             "name": "venusaur",
-            "url": "https://pokeapi.co/api/v2/pokemon/3/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
         },
         {
             "name": "charmander",
-            "url": "https://pokeapi.co/api/v2/pokemon/4/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
         },
         {
             "name": "charmeleon",
-            "url": "https://pokeapi.co/api/v2/pokemon/5/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
         },
         {
             "name": "charizard",
-            "url": "https://pokeapi.co/api/v2/pokemon/6/"
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
         },
         {
             "name": "squirtle",
-            "url": "https://pokeapi.co/api/v2/pokemon/7/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
         },
         {
             "name": "wartortle",
-            "url": "https://pokeapi.co/api/v2/pokemon/8/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
         },
         {
             "name": "blastoise",
-            "url": "https://pokeapi.co/api/v2/pokemon/9/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
         },
         {
             "name": "caterpie",
-            "url": "https://pokeapi.co/api/v2/pokemon/10/"
+            "types": [
+                "bug"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
         },
         {
             "name": "metapod",
-            "url": "https://pokeapi.co/api/v2/pokemon/11/"
+            "types": [
+                "bug"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
         },
         {
             "name": "butterfree",
-            "url": "https://pokeapi.co/api/v2/pokemon/12/"
+            "types": [
+                "bug",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
         },
         {
             "name": "weedle",
-            "url": "https://pokeapi.co/api/v2/pokemon/13/"
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
         },
         {
             "name": "kakuna",
-            "url": "https://pokeapi.co/api/v2/pokemon/14/"
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
         },
         {
             "name": "beedrill",
-            "url": "https://pokeapi.co/api/v2/pokemon/15/"
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
         },
         {
             "name": "pidgey",
-            "url": "https://pokeapi.co/api/v2/pokemon/16/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
         },
         {
             "name": "pidgeotto",
-            "url": "https://pokeapi.co/api/v2/pokemon/17/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
         },
         {
             "name": "pidgeot",
-            "url": "https://pokeapi.co/api/v2/pokemon/18/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
         },
         {
             "name": "rattata",
-            "url": "https://pokeapi.co/api/v2/pokemon/19/"
+            "types": [
+                "normal"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
         },
         {
             "name": "raticate",
-            "url": "https://pokeapi.co/api/v2/pokemon/20/"
+            "types": [
+                "normal"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
         },
         {
             "name": "spearow",
-            "url": "https://pokeapi.co/api/v2/pokemon/21/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
         },
         {
             "name": "fearow",
-            "url": "https://pokeapi.co/api/v2/pokemon/22/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
         },
         {
             "name": "ekans",
-            "url": "https://pokeapi.co/api/v2/pokemon/23/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
         },
         {
             "name": "arbok",
-            "url": "https://pokeapi.co/api/v2/pokemon/24/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
         },
         {
             "name": "pikachu",
-            "url": "https://pokeapi.co/api/v2/pokemon/25/"
+            "types": [
+                "electric"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
         },
         {
             "name": "raichu",
-            "url": "https://pokeapi.co/api/v2/pokemon/26/"
+            "types": [
+                "electric"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
         },
         {
             "name": "sandshrew",
-            "url": "https://pokeapi.co/api/v2/pokemon/27/"
+            "types": [
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
         },
         {
             "name": "sandslash",
-            "url": "https://pokeapi.co/api/v2/pokemon/28/"
+            "types": [
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
         },
         {
             "name": "nidoran-f",
-            "url": "https://pokeapi.co/api/v2/pokemon/29/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
         },
         {
             "name": "nidorina",
-            "url": "https://pokeapi.co/api/v2/pokemon/30/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
         },
         {
             "name": "nidoqueen",
-            "url": "https://pokeapi.co/api/v2/pokemon/31/"
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
         },
         {
             "name": "nidoran-m",
-            "url": "https://pokeapi.co/api/v2/pokemon/32/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
         },
         {
             "name": "nidorino",
-            "url": "https://pokeapi.co/api/v2/pokemon/33/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
         },
         {
             "name": "nidoking",
-            "url": "https://pokeapi.co/api/v2/pokemon/34/"
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
         },
         {
             "name": "clefairy",
-            "url": "https://pokeapi.co/api/v2/pokemon/35/"
+            "types": [
+                "fairy"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
         },
         {
             "name": "clefable",
-            "url": "https://pokeapi.co/api/v2/pokemon/36/"
+            "types": [
+                "fairy"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
         },
         {
             "name": "vulpix",
-            "url": "https://pokeapi.co/api/v2/pokemon/37/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
         },
         {
             "name": "ninetales",
-            "url": "https://pokeapi.co/api/v2/pokemon/38/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
         },
         {
             "name": "jigglypuff",
-            "url": "https://pokeapi.co/api/v2/pokemon/39/"
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
         },
         {
             "name": "wigglytuff",
-            "url": "https://pokeapi.co/api/v2/pokemon/40/"
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
         },
         {
             "name": "zubat",
-            "url": "https://pokeapi.co/api/v2/pokemon/41/"
+            "types": [
+                "poison",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
         },
         {
             "name": "golbat",
-            "url": "https://pokeapi.co/api/v2/pokemon/42/"
+            "types": [
+                "poison",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
         },
         {
             "name": "oddish",
-            "url": "https://pokeapi.co/api/v2/pokemon/43/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
         },
         {
             "name": "gloom",
-            "url": "https://pokeapi.co/api/v2/pokemon/44/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
         },
         {
             "name": "vileplume",
-            "url": "https://pokeapi.co/api/v2/pokemon/45/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
         },
         {
             "name": "paras",
-            "url": "https://pokeapi.co/api/v2/pokemon/46/"
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
         },
         {
             "name": "parasect",
-            "url": "https://pokeapi.co/api/v2/pokemon/47/"
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
         },
         {
             "name": "venonat",
-            "url": "https://pokeapi.co/api/v2/pokemon/48/"
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
         },
         {
             "name": "venomoth",
-            "url": "https://pokeapi.co/api/v2/pokemon/49/"
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
         },
         {
             "name": "diglett",
-            "url": "https://pokeapi.co/api/v2/pokemon/50/"
+            "types": [
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
         },
         {
             "name": "dugtrio",
-            "url": "https://pokeapi.co/api/v2/pokemon/51/"
+            "types": [
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
         },
         {
             "name": "meowth",
-            "url": "https://pokeapi.co/api/v2/pokemon/52/"
+            "types": [
+                "normal"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
         },
         {
             "name": "persian",
-            "url": "https://pokeapi.co/api/v2/pokemon/53/"
+            "types": [
+                "normal"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
         },
         {
             "name": "psyduck",
-            "url": "https://pokeapi.co/api/v2/pokemon/54/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
         },
         {
             "name": "golduck",
-            "url": "https://pokeapi.co/api/v2/pokemon/55/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
         },
         {
             "name": "mankey",
-            "url": "https://pokeapi.co/api/v2/pokemon/56/"
+            "types": [
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
         },
         {
             "name": "primeape",
-            "url": "https://pokeapi.co/api/v2/pokemon/57/"
+            "types": [
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
         },
         {
             "name": "growlithe",
-            "url": "https://pokeapi.co/api/v2/pokemon/58/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
         },
         {
             "name": "arcanine",
-            "url": "https://pokeapi.co/api/v2/pokemon/59/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
         },
         {
             "name": "poliwag",
-            "url": "https://pokeapi.co/api/v2/pokemon/60/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
         },
         {
             "name": "poliwhirl",
-            "url": "https://pokeapi.co/api/v2/pokemon/61/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
         },
         {
             "name": "poliwrath",
-            "url": "https://pokeapi.co/api/v2/pokemon/62/"
+            "types": [
+                "water",
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
         },
         {
             "name": "abra",
-            "url": "https://pokeapi.co/api/v2/pokemon/63/"
+            "types": [
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
         },
         {
             "name": "kadabra",
-            "url": "https://pokeapi.co/api/v2/pokemon/64/"
+            "types": [
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
         },
         {
             "name": "alakazam",
-            "url": "https://pokeapi.co/api/v2/pokemon/65/"
+            "types": [
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
         },
         {
             "name": "machop",
-            "url": "https://pokeapi.co/api/v2/pokemon/66/"
+            "types": [
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
         },
         {
             "name": "machoke",
-            "url": "https://pokeapi.co/api/v2/pokemon/67/"
+            "types": [
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
         },
         {
             "name": "machamp",
-            "url": "https://pokeapi.co/api/v2/pokemon/68/"
+            "types": [
+                "fighting"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
         },
         {
             "name": "bellsprout",
-            "url": "https://pokeapi.co/api/v2/pokemon/69/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
         },
         {
             "name": "weepinbell",
-            "url": "https://pokeapi.co/api/v2/pokemon/70/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
         },
         {
             "name": "victreebel",
-            "url": "https://pokeapi.co/api/v2/pokemon/71/"
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
         },
         {
             "name": "tentacool",
-            "url": "https://pokeapi.co/api/v2/pokemon/72/"
+            "types": [
+                "water",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
         },
         {
             "name": "tentacruel",
-            "url": "https://pokeapi.co/api/v2/pokemon/73/"
+            "types": [
+                "water",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
         },
         {
             "name": "geodude",
-            "url": "https://pokeapi.co/api/v2/pokemon/74/"
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
         },
         {
             "name": "graveler",
-            "url": "https://pokeapi.co/api/v2/pokemon/75/"
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
         },
         {
             "name": "golem",
-            "url": "https://pokeapi.co/api/v2/pokemon/76/"
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
         },
         {
             "name": "ponyta",
-            "url": "https://pokeapi.co/api/v2/pokemon/77/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
         },
         {
             "name": "rapidash",
-            "url": "https://pokeapi.co/api/v2/pokemon/78/"
+            "types": [
+                "fire"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
         },
         {
             "name": "slowpoke",
-            "url": "https://pokeapi.co/api/v2/pokemon/79/"
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
         },
         {
             "name": "slowbro",
-            "url": "https://pokeapi.co/api/v2/pokemon/80/"
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
         },
         {
             "name": "magnemite",
-            "url": "https://pokeapi.co/api/v2/pokemon/81/"
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
         },
         {
             "name": "magneton",
-            "url": "https://pokeapi.co/api/v2/pokemon/82/"
+            "types": [
+                "electric",
+                "steel"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
         },
         {
             "name": "farfetchd",
-            "url": "https://pokeapi.co/api/v2/pokemon/83/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
         },
         {
             "name": "doduo",
-            "url": "https://pokeapi.co/api/v2/pokemon/84/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
         },
         {
             "name": "dodrio",
-            "url": "https://pokeapi.co/api/v2/pokemon/85/"
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
         },
         {
             "name": "seel",
-            "url": "https://pokeapi.co/api/v2/pokemon/86/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
         },
         {
             "name": "dewgong",
-            "url": "https://pokeapi.co/api/v2/pokemon/87/"
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
         },
         {
             "name": "grimer",
-            "url": "https://pokeapi.co/api/v2/pokemon/88/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
         },
         {
             "name": "muk",
-            "url": "https://pokeapi.co/api/v2/pokemon/89/"
+            "types": [
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
         },
         {
             "name": "shellder",
-            "url": "https://pokeapi.co/api/v2/pokemon/90/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
         },
         {
             "name": "cloyster",
-            "url": "https://pokeapi.co/api/v2/pokemon/91/"
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
         },
         {
             "name": "gastly",
-            "url": "https://pokeapi.co/api/v2/pokemon/92/"
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
         },
         {
             "name": "haunter",
-            "url": "https://pokeapi.co/api/v2/pokemon/93/"
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
         },
         {
             "name": "gengar",
-            "url": "https://pokeapi.co/api/v2/pokemon/94/"
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
         },
         {
             "name": "onix",
-            "url": "https://pokeapi.co/api/v2/pokemon/95/"
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
         },
         {
             "name": "drowzee",
-            "url": "https://pokeapi.co/api/v2/pokemon/96/"
+            "types": [
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
         },
         {
             "name": "hypno",
-            "url": "https://pokeapi.co/api/v2/pokemon/97/"
+            "types": [
+                "psychic"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
         },
         {
             "name": "krabby",
-            "url": "https://pokeapi.co/api/v2/pokemon/98/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
         },
         {
             "name": "kingler",
-            "url": "https://pokeapi.co/api/v2/pokemon/99/"
+            "types": [
+                "water"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
         },
         {
             "name": "voltorb",
-            "url": "https://pokeapi.co/api/v2/pokemon/100/"
+            "types": [
+                "electric"
+            ],
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
         }
     ]
 }
